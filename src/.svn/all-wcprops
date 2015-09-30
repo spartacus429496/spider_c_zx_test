@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/zx-etm/!svn/ver/36/trunk/src
+END
+Spider.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/zx-etm/!svn/ver/2/trunk/src/Spider.vcproj
+END
+db_cmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/zx-etm/!svn/ver/36/trunk/src/db_cmd.c
+END
+shop_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/zx-etm/!svn/ver/2/trunk/src/shop_parse.h
+END
+http_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/zx-etm/!svn/ver/36/trunk/src/http_parse.c
+END
+mysql_esp.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/zx-etm/!svn/ver/36/trunk/src/mysql_esp.c
+END
+db_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/zx-etm/!svn/ver/5/trunk/src/db_cmd.h
+END
+http_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/zx-etm/!svn/ver/2/trunk/src/http_parse.h
+END
+mysql_esp.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/zx-etm/!svn/ver/2/trunk/src/mysql_esp.h
+END
+ipc_msg.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/zx-etm/!svn/ver/2/trunk/src/ipc_msg.c
+END
+set.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/zx-etm/!svn/ver/2/trunk/src/set.sh
+END
+conf.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/zx-etm/!svn/ver/36/trunk/src/conf.c
+END
+spider.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/zx-etm/!svn/ver/34/trunk/src/spider.c
+END
+http_req.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/zx-etm/!svn/ver/34/trunk/src/http_req.c
+END
+ipc_msg.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/zx-etm/!svn/ver/2/trunk/src/ipc_msg.h
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/zx-etm/!svn/ver/14/trunk/src/build.sh
+END
+conf.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/zx-etm/!svn/ver/2/trunk/src/conf.h
+END
+spider.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/zx-etm/!svn/ver/25/trunk/src/spider.h
+END
+http_req.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/zx-etm/!svn/ver/15/trunk/src/http_req.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/zx-etm/!svn/ver/36/trunk/src/common.h
+END
+commodity_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/zx-etm/!svn/ver/36/trunk/src/commodity_parse.c
+END
+Spider.sln
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/zx-etm/!svn/ver/2/trunk/src/Spider.sln
+END
+commodity_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/zx-etm/!svn/ver/2/trunk/src/commodity_parse.h
+END
+shop_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/zx-etm/!svn/ver/36/trunk/src/shop_parse.c
+END
